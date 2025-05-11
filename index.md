@@ -3,3 +3,4 @@
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 Ho aggiunto un titolo generico
+Aggiunta la foto di gatto pazzo
